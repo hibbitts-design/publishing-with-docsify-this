@@ -211,12 +211,12 @@ Now that the template files are located on your own GitHub account, modify their
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-article">Docsify-This One Page Article Templates</a></h4>
 
 ![Docsify-This One Page Article Template](images/docsify-this-one-page-article.jpg ':class=image-75-border')  
-_Figure 4. Docsify-This One Page Article Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_  
+_Figure 3. Docsify-This One Page Article Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-article/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3_  
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-one-page-course">Docsify-This One Page Course Template</a></h4>
 
 ![Docsify-This One Page Course Template](images/docsify-this-one-page-course.jpg ':class=image-75-border')  
-_Figure 3. Docsify-This One Page Course Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true_  
+_Figure 4. Docsify-This One Page Course Template, for example the Markdown file [home.md](https://github.com/hibbitts-design/docsify-this-one-page-course/blob/main/home.md) and displayed by Docsify-This as https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-course/main&homepage=home.md&toc=true_  
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-site">Docsify-This Multiple Page Site Template</a></h4>
 
