@@ -32,7 +32,7 @@ _your italic text here_
 
   1. your numbered (and indented) list item here   
 
-[link title](www.google.com)  
+[link title](https://www.google.com)  
 
 ![Image Alt Text](imagefile.jpg)  
 
