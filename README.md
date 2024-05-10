@@ -101,7 +101,7 @@ The visual appearance of any Markdown file displayed by Docsify-This can be alte
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
 ```
 
-Please note that when you use the Docsify-This Web Page Builder a Docisfy-This URL is generated which uses these same URL parameters.
+Please note that when you use the Docsify-This Web Page Builder the Docisfy-This URL generated includes these same URL parameters.
 
 #### Markdown CSS Classes
 
