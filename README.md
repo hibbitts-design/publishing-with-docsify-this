@@ -83,9 +83,9 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
 
-### Manual Editing a Docsify-This URL
+### Editing a Docsify-This URL
 
-You can also render other Markdown files in the same repository by directly editing the Docsify-This URL parameter **homepage**, for example:
+You can also render other Markdown files in the same repository by manualy editing the Docsify-This URL parameter **homepage**, for example:
 
 ```html
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=anotherfile.md
