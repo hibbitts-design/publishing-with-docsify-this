@@ -72,7 +72,7 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 <img src="images/docsify-this-web-page-builder.jpg" width="910" height="682" class="image-border" alt="Docsify-This Web Page Builder"><br>
 <figcaption><em>Figure 1. Docsify-This Web Page Builder</em></figcaption>
 
-### Example Docsify-This URL
+### Example Docsify-This URL Created by the Web Page Builder
 
 ```html
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md
@@ -83,7 +83,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
 
-### Docsify-This URL Editing
+### Manual Docsify-This URL Editing
 
 You can also render other Markdown files in the same repository by directly editing the Docsify-This URL parameter **homepage**, for example:
 
