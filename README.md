@@ -196,7 +196,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #### iFrames
 
-You can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
+In additition to generating standalone Web pages and sites, you can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
 <img src="images/docsify-this-iframe.jpg" width="910" height="682" class="image-border" alt="Docsify-This iFrame"><br>
 <figcaption><em>Figure 8. Docsify-This iFrame (within the Canvas LMS Homepage), for example <a href="https://canvas.sfu.ca/courses/76289">https://canvas.sfu.ca/courses/76289</a></em></figcaption>
