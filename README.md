@@ -290,8 +290,8 @@ There are multiple ways to get a raw Markdown file available online, here are th
 4. Tap on **Raw** button in the upper right of your Gist field and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ### Personal or Organizational Website
-1. Obtain login information for your server
-2. Upload the Markdown file to your server
+1. Obtain login information for your Webserver
+2. Upload the Markdown file to your Webserver
 3. Navigate to the location of that file, view the contents in your Browser, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ## Leveraging Git and GitHub
