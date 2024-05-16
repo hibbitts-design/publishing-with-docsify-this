@@ -2,7 +2,7 @@
 
 # Publishing with Docsify&#8288;&#8211;&#8288;This
 
-> An introduction to Markdown publishing with the open source Docsify&#8288;&#8211;&#8288;This project.
+> A brief guide to Markdown publishing with the open source Docsify&#8288;&#8211;&#8288;This project.
 
 Brought to you by Paul Hibbitts of [HibbittsDesign.org](https://hibbittsdesign.org/).
 
