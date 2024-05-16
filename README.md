@@ -2,7 +2,7 @@
 
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
 
-An introduction to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
+A guide to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
 
 ## Markdown
 
