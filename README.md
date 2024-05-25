@@ -231,7 +231,7 @@ With the Canvas LMS it is also possible to use an [external web page as content 
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
 ```
 
-### Docsify-This Page Markdown Templates
+### Docsify-This Markdown Page Templates
 
 The following example Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
 
