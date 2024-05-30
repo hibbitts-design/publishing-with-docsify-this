@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/pawel-czerwinski-EIfU0IUqZw8-unsplash.jpg" width="910" height="250" class="banner-image">
-
 # Markdown Publishing with Docsify&#8288;&#8211;&#8288;This
 
 A guide to Markdown publishing using the open source [Docsify-This.net](https://docsify-this.net/) project.
