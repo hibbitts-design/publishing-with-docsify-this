@@ -277,7 +277,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 ### GitHub or Codeberg 
 1. Signup for a [GitHub](https://github.com) or [Codeberg](https://codeberg.org) account
-2. Make a new repository, and create or upload your Markdown file
+2. Make a new repository, and create or upload your Markdown file with a filename ending with `.md` (e.g. `myfile.md`)
 3. View the Markdown file, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ### Gist (GitHub Gists)
