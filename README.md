@@ -289,7 +289,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 ### Personal or Organizational Website
 1. Obtain login information for your Webserver
-2. Upload the Markdown file to your Webserver
+2. Upload the Markdown file to your Webserver with a filename ending with `.md` (e.g. `myfile.md`)
 3. Navigate to the location of that file, view the contents in your Browser, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ## Leveraging Git and GitHub
