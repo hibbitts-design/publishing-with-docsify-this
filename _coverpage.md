@@ -1,5 +1,3 @@
-<!-- markdownlint-disable first-line-h1 -->
-
 ![Docsify Logo](https://raw.githubusercontent.com/docsifyjs/docsify/develop/docs/_media/icon.svg)
 
 # Publishing with Docsify&#8288;&#8211;&#8288;This
