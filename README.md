@@ -57,15 +57,15 @@ _Being open source, you can also host your own Docsify-This instance, with the p
 
 ### Example Docsify-This Usage Scenarios
 
-* Publish your Markdown files as standalone web pages, with no website setup or build process required
-* Visually style your standalone web pages using a point-and-click Web Page Builder
-* Share existing GitHub-hosted Markdown files as standalone web pages, with an optional 'Edit this Page' link
+* Publish your Markdown files as web pages, with no website setup or build process required
+* Visually style your web pages using a point-and-click Web Page Builder
+* Share existing GitHub-hosted Markdown files as web pages, with an optional 'Edit this Page' link
 * Seamlessly embed constraint-free Markdown/HTML into other platforms (e.g. LMS or CMS)
 * Utilize the supported URL parameters when embedding content to match each destination platform better visually
 
 ### Docsify-This Web Page Builder
 
-To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the ‘Publish as a Web Page’ button. The Markdown file will then be rendered as a standalone Web page with it’s own URL that can then be copied and shared.
+To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the ‘Publish as a Web Page’ button. The Markdown file will then be rendered as a web page with it’s own URL that can then be copied and shared.
 
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-v1-9-12-web-page-builder.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Web Page Builder"><br>
 <em>Figure 1. Docsify-This Web Page Builder</em>
@@ -194,7 +194,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #### iFrames
 
-In additition to generating standalone Web pages and sites, you can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
+In additition to generating web pages and sites, you can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-iframe.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This iFrame"><br>
 <em>Figure 3. Docsify-This iFrame (within the Canvas LMS Homepage), for example <a href="https://canvas.sfu.ca/courses/76289">https://canvas.sfu.ca/courses/76289</a></em>
