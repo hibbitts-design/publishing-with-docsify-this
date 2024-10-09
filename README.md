@@ -283,15 +283,15 @@ There are multiple ways to get a raw Markdown file available online, here are th
 2. **Create a new repository**:
    - Click the **+** icon and select **New Repository**
    - Fill in the repository details:
-     - **Repository Name**: Choose a name for your repository (e.g., `docsify-this-demo`)
-     - **Visibility**: Confirm that the visiblity is **Public**
+     - Choose a **Repository Name** for your repository (e.g., `docsify-this-demo`)
+     - Confirm that the **Visibility** is **Public**
    - Click **Create Repository**
 
 #### Step 2: Create a New Markdown File
 
 1. **Go to your new repository** and click **New File**
-2. **Name your file**: Use the `.md` extension (e.g., `demo.md`)
-3. **Add content**: Enter your Markdown content. For example:
+2. **Name your file** and use the `.md` extension (e.g., `demo.md`)
+3. Enter your **Markdown content**. For example:
    ```markdown
    # Welcome!
    This is my sample Markdown file.
@@ -305,17 +305,17 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 #### Step 4: Confirm the File and View it with Docsify-This
 
-1. **View the file** in your repository to see the rendered Markdown
+1. In your repository **view the file** to see the rendered Markdown
 2. **Copy the file URL** from your browser's address bar
 3. **Go to [Docsify-This.net](https://docsify-this.net)** and paste the copied URL into the **Markdown File URL** field
-4. **Click "Publish as a Web Page"** to view your Markdown file rendered as a web page using Docsify-This
+4. Tap the **Publish as a Web Page** button to view your Markdown file rendered as a web page using Docsify-This
 
 ### Gist (GitHub Gists)
 1. Signup for a [GitHub](https://github.com) account
-1. Create a gist with your Markdown file at https://gist.github.com
-2. Enter a filename ending with `.md` (e.g. `mygist.md`)
-3. Choose **Create public gist** and tap on that button
-4. Tap on **Raw** button in the upper right of your Gist field and copy/paste that URL into the Docsify-This **Markdown File URL** field
+2. Create a gist with your Markdown file at https://gist.github.com
+3. Enter a filename ending with `.md` (e.g. `mygist.md`)
+4. Choose **Create public gist** and tap on that button
+5. Tap on **Raw** button in the upper right of your Gist field and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
 ### Personal or Organizational Website
 1. Obtain login information for your Webserver
