@@ -276,9 +276,39 @@ Now that the template files are located on your own GitHub account, modify their
 There are multiple ways to get a raw Markdown file available online, here are three options to help you get started:
 
 ### GitHub or Codeberg 
-1. Signup for a [GitHub](https://github.com) or [Codeberg](https://codeberg.org) account
-2. Make a new repository, and create or upload your Markdown file with a filename ending with `.md` (e.g. `myfile.md`)
-3. View the Markdown file, and copy/paste that URL into the Docsify-This **Markdown File URL** field
+
+#### Step 1: Create a New Repository
+
+1. **Log in** or **Sign up** to GitHub or Codeberg
+2. **Create a new repository**:
+   - Click the **+** icon and select **New Repository**
+   - Fill in the repository details:
+     - **Repository Name**: Choose a name for your repository (e.g., `docsify-this-demo`)
+     - **Visibility**: Confirm that the visiblity is **Public**
+   - Click **Create Repository**
+
+#### Step 2: Create a New Markdown File
+
+1. **Go to your new repository** and click **New File**
+2. **Name your file**: Use the `.md` extension (e.g., `demo.md`)
+3. **Add content**: Enter your Markdown content. For example:
+   ```markdown
+   # Welcome!
+   This is my sample Markdown file.
+   ```
+
+#### Step 3: Commit the Changes
+
+1. **Commit your file**:
+   - Provide a **Commit Message** (e.g., "Create demo.md")
+   - Click **Commit Changes**
+
+#### Step 4: Confirm the File and View it with Docsify-This
+
+1. **View the file** in your repository to see the rendered Markdown
+2. **Copy the file URL** from your browser's address bar (e.g., `https://github.com/username/repository-name/blob/main/example.md` or `https://codeberg.org/username/repository-name/src/branch/main/example.md`)
+3. **Go to [Docsify-This.net](https://docsify-this.net)** and paste the copied URL into the **Markdown File URL** field
+4. **Click "Publish as a Web Page"** to view your Markdown file rendered as a web page using Docsify-This
 
 ### Gist (GitHub Gists)
 1. Signup for a [GitHub](https://github.com) account
