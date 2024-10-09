@@ -306,7 +306,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 #### Step 4: Confirm the File and View it with Docsify-This
 
 1. **View the file** in your repository to see the rendered Markdown
-2. **Copy the file URL** from your browser's address bar (e.g., `https://github.com/username/repository-name/blob/main/example.md` or `https://codeberg.org/username/repository-name/src/branch/main/example.md`)
+2. **Copy the file URL** from your browser's address bar
 3. **Go to [Docsify-This.net](https://docsify-this.net)** and paste the copied URL into the **Markdown File URL** field
 4. **Click "Publish as a Web Page"** to view your Markdown file rendered as a web page using Docsify-This
 
