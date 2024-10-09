@@ -303,7 +303,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
    - Provide a **Commit Message** (e.g., "Create demo.md")
    - Tap the **Commit Changes** button
 
-#### Step 4: Confirm the File and View it with Docsify-This
+#### Step 4: Verify the File and View it with Docsify-This
 
 1. In your repository, **view the file** to see the rendered Markdown
 2. **Copy the file URL** from your browser's address bar
