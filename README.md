@@ -281,15 +281,15 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 1. **Log in** or **Sign up** to GitHub or Codeberg
 2. **Create a new repository**:
-   - Click the **+** icon and select **New Repository**
+   - Tap the **+** icon and select **New Repository**
    - Fill in the repository details:
      - Choose a **Repository Name** for your repository (e.g., `docsify-this-demo`)
      - Confirm that the **Visibility** is **Public**
-   - Click **Create Repository**
+   - Tap **Create Repository**
 
 #### Step 2: Create a New Markdown File
 
-1. **Go to your new repository** and click **New File**
+1. **Go to your new repository** and tap **New File**
 2. **Name your file** and use the `.md` extension (e.g., `demo.md`)
 3. Enter your **Markdown content**. For example:
    ```markdown
@@ -301,11 +301,11 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 1. **Commit your file**:
    - Provide a **Commit Message** (e.g., "Create demo.md")
-   - Click **Commit Changes**
+   - Tap the **Commit Changes** button
 
 #### Step 4: Confirm the File and View it with Docsify-This
 
-1. In your repository **view the file** to see the rendered Markdown
+1. In your repository, **view the file** to see the rendered Markdown
 2. **Copy the file URL** from your browser's address bar
 3. **Go to [Docsify-This.net](https://docsify-this.net)** and paste the copied URL into the **Markdown File URL** field
 4. Tap the **Publish as a Web Page** button to view your Markdown file rendered as a web page using Docsify-This
