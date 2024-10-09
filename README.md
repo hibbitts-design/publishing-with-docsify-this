@@ -294,6 +294,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 3. Enter your **Markdown content**. For example:
    ```markdown
    # Welcome!
+   
    This is my sample Markdown file.
    ```
 
