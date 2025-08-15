@@ -330,7 +330,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 2. Upload the Markdown file to your Webserver with a filename ending with `.md` (e.g. `myfile.md`)
 3. Navigate to the location of that file, view the contents in your Browser, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
-## Leveraging Git and GitHub
+## Leveraging Git with GitHub or Codeberg
 
 ### Git
 
@@ -350,7 +350,7 @@ As a distributed version control system, Git also support collaboration with mul
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/distributed.png" alt="Distributed Version Control" class="responsive-border"><br>
 <em>Figure 12. Distributed Version Control (source: <a href="https://git-scm.com">https://git-scm.com</a>)</em>
 
-### GitHub
+### GitHub and Codeberg
 
 GitHub and Codeberg are examples of online Git services, providing point-and-click means to create and manage Git repositories.
 
@@ -361,7 +361,7 @@ In addition to supporting the hosting of Git repositories, online editing of rep
 
 ### GitHub Desktop
   
-* Locally Store Git/GitHub Repositories  
+* Locally Store Git/GitHub/Codeberg Repositories  
 * **Push** and **Pull** Repository Changes  
 
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/github-desktop-screenshot-mac.jpg" alt="GitHub Desktop" class="responsive-border"><br>
