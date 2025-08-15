@@ -289,7 +289,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 #### Step 2: Create a New Markdown File
 
-1. **Go to your new repository** and tap **New File**
+1. **Go to your new repository**, tap **Add File** and then choose **New File**
 2. **Name your file** and use the `.md` extension (e.g., `demo.md`)
 3. Enter your **Markdown content**. For example:
    ```markdown
@@ -297,6 +297,13 @@ There are multiple ways to get a raw Markdown file available online, here are th
    
    This is my sample Markdown file.
    ```
+
+OR
+
+#### Step 2: Upload an existing Markdown File
+
+1. **Go to your new repository**, tap **Add File** and then choose **Upload File**
+2. **Choose your file** and make sure it uses the `.md` extension (e.g., `demo.md`)
 
 #### Step 3: Commit the Changes
 
