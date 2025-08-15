@@ -130,7 +130,7 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 
 ### Basic Customization
 
-The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters). For example, **font-family**, **font-size**, **link-color** and **line-height**   
+The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic). For example, **font-family**, **font-size**, **link-color** and **line-height**   
 
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
