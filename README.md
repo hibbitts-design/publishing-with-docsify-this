@@ -287,7 +287,9 @@ There are multiple ways to get a raw Markdown file available online, here are th
      - Confirm that the **Visibility** is **Public**
    - Tap **Create Repository**
 
-#### Step 2: Create a New Markdown File
+#### Step 2: Add Your Markdown Content
+
+**Option A: Create a New Markdown File**
 
 1. **Go to your new repository**, tap **Add File** and then choose **New File**
 2. **Name your file** and use the `.md` extension (e.g., `demo.md`)
@@ -298,9 +300,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
    This is my sample Markdown file.
    ```
 
-OR
-
-#### Step 2: Upload an existing Markdown File
+**Option B: Upload an Existing File**
 
 1. **Go to your new repository**, tap **Add File** and then choose **Upload File**
 2. **Choose your file** and make sure it uses the `.md` extension (e.g., `demo.md`)
