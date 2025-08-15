@@ -317,7 +317,7 @@ Now that the template files are located on your own GitHub account, modify their
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site">Multiple Page Blog Style Site Template</a></h4>
 
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-multiple-page-blog-style-site.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This Multiple Page Blog Style Template"><br>
-<em>Figure 9. Multiple Page Blog Style Site [home.md](https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site/blob/main/home.md) file, including the use of a responsive card list created with HTML div elements and the Markdown CSS class `header-image-full-width-headings-overlay`, displayed by Docsify-This as: <a href="https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-blog-style-site/main&homepage=home.md</a></em>
+<em>Figure 9. Docsify-This Multiple Page Blog Style Site Template, for example the Markdown file <a href="https://github.com/hibbitts-design/docsify-this-multiple-page-blog-style-site/blob/main/home.md">home.md</a> and displayed by Docsify-This as <a href="https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-blog-style-site/main&homepage=home.md">https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-blog-style-site/main&homepage=home.md</a></em>
 
 <h4><a href="https://github.com/hibbitts-design/docsify-this-multiple-page-course-site">Docsify-This Multiple Page Course Site Template</a></h4>
 
