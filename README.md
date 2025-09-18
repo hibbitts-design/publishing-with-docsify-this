@@ -142,7 +142,7 @@ You can also render other Markdown files in the same repository by manualy editi
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=anotherfile.md
 ```
 
-### Example Docsify-This Usage Scenarios
+### Example Usage Scenarios
 
 * Publish your Markdown files as web pages, with no website setup or build process required
 * Visually style your web pages using a point-and-click Web Page Builder
