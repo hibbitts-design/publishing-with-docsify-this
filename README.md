@@ -104,7 +104,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 _Being open source, you can also host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
 
-### Getting Started with Docsify-This
+### Getting Started
 
 To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the 'Publish as a Web Page' button. The Markdown file will then be rendered as a web page with it's own URL that can then be copied and shared.
 
