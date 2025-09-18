@@ -303,6 +303,22 @@ For detailed examples and customization options, visit the [complete Docsify-Thi
 
 In additition to generating web pages and sites, you can embed Docsify-This web pages using iFrames in almost any platform. URL parameters can also be used to match each destination platform better visually.
 
+_In general, paste the below HTML into your HTML editor and then replace the default `basepath` and `homepage` value with your own. For WordPress users: Add the code below to a Custom HTML block._
+
+For basic embedding with a fixed height to seamlessly integrate with other destination page content:
+
+```html
+<div style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
+  <iframe src="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/github-demo-markdown-file/main&homepage=README.md&max-width=100&hide-credits=true" 
+    style="width: 100%; height: 2700px; border: none; display: block;"
+    scrolling="no"
+    frameborder="0">
+  </iframe>
+</div>
+```
+
+_Adjust the `height` value (2700px) to match your content length. Test on different devices to ensure all content is visible._
+
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-iframe.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This iFrame"><br>
 <em>Figure 10. Docsify-This iFrame (within the Canvas LMS Homepage), for example <a href="https://canvas.sfu.ca/courses/76289">https://canvas.sfu.ca/courses/76289</a></em>
 
