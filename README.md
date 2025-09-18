@@ -141,6 +141,8 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 Please note that when you use the Docsify-This Web Page Builder the Docsify-This URL generated includes these same URL parameters.
 
+For a complete list of available URL parameters and advanced customization options, see the [Docsify-This URL parameter documentation](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic).
+
 ### Editing a Docsify-This URL
 
 You can also render other Markdown files in the same repository by manualy editing the Docsify-This URL parameter **homepage**, for example:
@@ -176,6 +178,8 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 ```markdown
 ![UX - User Experience](https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 ```
+
+For a complete reference of all available CSS classes and advanced styling options, see the [Docsify-This CSS Markdow classes documentation](https://docsify-this.net/#/?id=supported-markdown-css-classes).
 
 #### Custom Markdown CSS Classes
 
@@ -295,7 +299,7 @@ Now that the template files are located on your own GitHub account, modify their
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/docsify-this-lms-content-pages.jpg" width="910" height="682" class="responsive image-border" alt="Docsify-This LMS Content Pages Template"><br>
 <em>Figure 9. Docsify-This LMS Content Pages Template, including such embeddable pages as a <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=home.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/home.md">home page</a>, <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=module-01.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/module-01.md">weekly module</a>, <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=topics.md&edit-link=https://github.com/hibbitts-design/docsify-this-lms-content-pages/blob/main/topics.md">topics</a> and <a href="https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=index.md">more</a></em>
 
-For detailed examples and customization options, visit the [complete Docsify-This documentation](https://docsify-this.net).
+For additional template examples, see the [Docsify-This Markdown templates](https://docsify-this.net/#/?id=ready-to-use-docsify-this-markdown-templates)
 
 ### Embedding Docsify-This Pages
 
