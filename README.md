@@ -179,7 +179,7 @@ If you can edit the Markdown file that is displayed by Docsify-This the visual a
 ![UX - User Experience](https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 ```
 
-For a complete reference of all available CSS classes and advanced styling options, see the [Docsify-This CSS Markdow classes documentation](https://docsify-this.net/#/?id=supported-markdown-css-classes).
+For a complete reference of all available CSS classes and advanced styling options, see the [Docsify-This CSS Markdown classes documentation](https://docsify-this.net/#/?id=supported-markdown-css-classes).
 
 #### Custom Markdown CSS Classes
 
