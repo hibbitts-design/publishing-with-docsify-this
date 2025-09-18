@@ -98,16 +98,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 2. Upload the Markdown file to your Webserver with a filename ending with `.md` (e.g. `myfile.md`)
 3. Navigate to the location of that file, view the contents in your Browser, and copy/paste that URL into the Docsify-This **Markdown File URL** field
 
-## Publishing with Markdown
-
-* Markdown Converters
-  * For example, [Pandoc](https://pandoc.org/)
-* Markdown Static Site Builders
-  * For example, [Jekyll](https://jekyllrb.com/)
-* Markdown Dynamic Renderers
-  * For example, [Docsify](https://docsify.js.org)
-
-## Docsify-This
+## Publishing with Docsify-This
 
 [Docsify-This](https://github.com/hibbitts-design/docsify-this) is an open source Web app, built using the [Docsify Open Publishing Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), that can quickly display online Markdown files as web pages (i.e. no file uploads or build processes).   
 
