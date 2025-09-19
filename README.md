@@ -356,6 +356,10 @@ https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-des
 
 ## Leveraging Git with GitHub or Codeberg
 
+## Leveraging Git with GitHub or Codeberg
+
+To get the most out of Docsify-This, consider using GitHub or Codeberg repositories to store your Markdown files. This approach provides version control, enables collaboration through "Edit this Page" links, and allows you to edit content locally on your desktop using your choice of text editor.
+
 ### Git
 
 Git is a free and open source distributed version control system,  originally created by Linus Torvalds in 2005 for development of the Linux kernel. 
