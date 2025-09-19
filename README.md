@@ -4,6 +4,8 @@ A detailed guide to Markdown publishing using the open source [Docsify-This.net]
 
 ## Markdown
 
+Before diving into publishing with Docsify-This, let's cover the basics of Markdown - the simple formatting language that makes all of this possible. Understanding these fundamentals will help you create better content and take full advantage of Docsify-This features.
+
 ### What is Markdown? 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language used to format the display of content stored as plain text - similar but simpler than HTML&nbsp;formatting  
 
@@ -41,7 +43,8 @@ Tip: To ensure a new paragraph after text in markdown, put two spaces after the 
 Looking for a more detailed overview of Markdown? Check out the [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/).
 
 ## Hosting Markdown Files
-There are multiple ways to get a raw Markdown file available online, here are three options to help you get started:
+
+To use Docsify-This, your Markdown files need to be accessible online via a public URL. While this might sound a bit technical, there are several straightforward ways that require no server management or technical expertise. Here are three popular approaches:
 
 ### GitHub or Codeberg 
 
@@ -100,7 +103,7 @@ There are multiple ways to get a raw Markdown file available online, here are th
 
 ## Publishing with Docsify-This
 
-[Docsify-This](https://github.com/hibbitts-design/docsify-this) is an open source Web app, built using the [Docsify Open Publishing Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), that can quickly display online Markdown files as web pages (i.e. no file uploads or build processes).   
+Now that you have Markdown files hosted online, you're ready to transform them into visually styled web pages. Docsify-This makes this process remarkably simple while offering a range of customization options to match your needs.
 
 _Being open source, you can also host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
 
@@ -243,7 +246,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Ready-to-Use Templates
 
-The following example Markdown templates are available which can be cloned/forked on GitHub or imported into Codeberg. Templates can also be downloaded and hosted just about anywhere online. 
+Starting from scratch isn't always necessary. These pre-designed templates provide a solid foundation for common publishing scenarios, from simple articles to complete course websites. You can use them as-is or customize them to match your specific needs.
+
+The following Markdown templates can be cloned/forked on GitHub, imported into Codeberg, or downloaded and hosted on your own webserver.
 
 To use these templates you would generally do the following (specific instructions are included with each template):
 
@@ -353,8 +358,6 @@ With the Canvas LMS it is also possible to use an [external web page as content 
 ```html
 https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/cmpt-363-222-pages/main&homepage=week-01.md&toc-narrow=true&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&hide-credits=true
 ```
-
-## Leveraging Git with GitHub or Codeberg
 
 ## Leveraging Git with GitHub or Codeberg
 
