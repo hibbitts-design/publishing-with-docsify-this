@@ -383,16 +383,16 @@ As a distributed version control system, Git also support collaboration with mul
 
 ### GitHub and Codeberg
 
-GitHub and Codeberg are examples of online Git services, providing point-and-click means to create and manage Git repositories.
+GitHub and Codeberg are examples of online Git services, letting you more easily create and manage Git repositories.
 
-In addition to supporting the hosting of Git repositories, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
+Besides hosting your files, online editing of repository content such as Markdown files (using the filename extension .md) is also provided.
 
 <img src="https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main/images/github-markdown-file.jpg" alt="GitHub Markdown File" class="responsive-border">
 <em>Figure 15. GitHub Markdown File</em>
 
 ### Docsify-This + GitHub or Codeberg Markdown Files 
 
-To fully leverage the benefits of version control, and potentially collaboration using an optional "Edit this Page" link, store your Docsify-This Markdown pages within a GitHub or Codeberg repository and optionally use an app such as GitHub Desktop to push/pull changes to your desktop.
+To get the most from version control, and potentially collaboration using an optional "Edit this Page" link, store your Docsify-This Markdown pages within a GitHub or Codeberg repository and optionally use an app such as GitHub Desktop to push/pull changes to your desktop.
 
 ### Setting up GitHub Desktop
 
