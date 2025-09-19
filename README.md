@@ -44,7 +44,7 @@ Looking for a more detailed overview of Markdown? Check out the [Markdown Cheat 
 
 ## Hosting Markdown Files
 
-To use Docsify-This, your Markdown files need to be accessible online via a public URL. While this might sound a bit technical, there are several straightforward ways that require no server management or technical expertise. Here are three popular approaches:
+To use Docsify-This, your Markdown files need to be available online with a web link. While this might sound a bit technical, there are several straightforward ways that require no server management or technical expertise. Here are three popular approaches:
 
 ### GitHub or Codeberg 
 
@@ -151,7 +151,7 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 * Visually style your web pages using a point-and-click Web Page Builder
 * Share existing GitHub-hosted Markdown files as web pages, with an optional 'Edit this Page' link
 * Seamlessly embed constraint-free Markdown/HTML into other platforms (e.g. LMS or CMS)
-* Utilize the supported URL parameters when embedding content to match each destination platform better visually
+* Use the available options when embedding content to match each destination platform better visually
 
 ### Markdown CSS Classes
 
@@ -246,7 +246,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ### Ready-to-Use Templates
 
-Starting from scratch isn't always necessary. These pre-designed templates provide a solid foundation for common publishing scenarios, from simple articles to complete course websites. You can use them as-is or customize them to match your specific needs.
+Starting from scratch isn't always necessary. These pre-designed templates provide a solid foundation for common publishing scenarios, from simple articles to complete course websites. You can use them as-is or change them to fit what you need.
 
 The following Markdown templates can be cloned/forked on GitHub, imported into Codeberg, or downloaded and hosted on your own webserver.
 
@@ -305,7 +305,7 @@ In additition to generating web pages and sites, you can embed Docsify-This web 
 
 _In general, paste the below HTML into your HTML editor and then replace the default `basepath` and `homepage` value with your own. For WordPress users: Add the code below to a Custom HTML block._
 
-For basic embedding with a fixed height to seamlessly integrate with other destination page content:
+For basic embedding with a fixed height to blend in smoothly with your other page content:
 
 ```html
 <div style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
