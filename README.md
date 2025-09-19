@@ -105,7 +105,7 @@ To use Docsify-This, your Markdown files need to be accessible online via a publ
 
 Now that you have Markdown files hosted online, you're ready to transform them into visually styled web pages. Docsify-This makes this process remarkably simple while offering a range of customization options to match your needs.
 
-_Being open source, you can also host your own Docsify-This instance, with the possibility of even a custom domain! No platform lock-in here._
+_As an open source project, you have the option to host your own Docsify-This instance with your own custom domain, giving you full control over your publishing platform with minimal configuration required._
 
 ### Getting Started
 
