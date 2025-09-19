@@ -4,7 +4,7 @@ A detailed guide to Markdown publishing using the open source [Docsify-This.net]
 
 ## Markdown
 
-Before diving into publishing with Docsify-This, let's cover the basics of Markdown - the simple formatting language that makes all of this possible. Understanding these fundamentals will help you create better content and take full advantage of Docsify-This features.
+Before diving into publishing with Docsify-This, let's cover the basics of Markdown - the simple formatting (markup) language that makes all of this possible. Understanding these fundamentals will help you create better content and take full advantage of Docsify-This.
 
 ### What is Markdown? 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language used to format the display of content stored as plain text - similar but simpler than HTML&nbsp;formatting  
