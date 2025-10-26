@@ -114,6 +114,9 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/refs/heads/master/docsify-this-v1-10-6-web-page-builder.png" width="910" height="682" class="responsive" alt="Docsify-This Web Page Builder"><br>
 <em>Figure 1. Docsify-This Web Page Builder</em>
 
+> [!NOTE]
+> When using the Docsify-This Web Page Builder, a regular GitHub or Codeberg file URL (e.g. https://github.com/username/repo/blob/main/README.md) is recommended for convenience, though raw URLs (e.g. https://raw.githubusercontent.com/username/repo/main/README.md) are also fully supported. If you are manually constructing a Docsify-This URL (bypassing the Web Page Builder) to render a public GitHub file, you must use its raw source URL, obtainable by tapping the Raw button when viewing a file.
+
 ### Example Docsify-This URL Created by Web Page Builder
 
 ```html
