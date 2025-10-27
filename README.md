@@ -107,6 +107,9 @@ Now that you have Markdown files hosted online, you're ready to transform them i
 
 _As an open source project, you even have the option to host your own Docsify-This instance with your own custom domain, giving you full control over your publishing platform with minimal configuration required._
 
+> [!NOTE]
+> Docsify-This uses client-side rendering, which means your published content will not be indexed by search engines like Google, Bing, or DuckDuckGo. This makes it ideal for embedding, presentations, and course materials, but not suitable for content that needs to appear in search results.
+
 ### Getting Started
 
 To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the 'Publish as a Web Page' button. You can use either a regular GitHub or Codeberg file URL (e.g. https://github.com/username/repo/blob/main/README.md) or a raw URL (e.g. https://raw.githubusercontent.com/username/repo/main/README.md) - both are fully supported. The Markdown file will then be rendered as a web page with its own URL that can be copied and shared.
