@@ -115,7 +115,12 @@ To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter 
 
 <em>Figure 1. Docsify-This Web Page Builder</em>
 
-**Note:** If you're manually constructing a Docsify-This URL (bypassing the Web Page Builder), you must use the raw source URL for GitHub files, which you can obtain by clicking the Raw button when viewing the file.
+**Important:** If you're manually constructing a Docsify-This URL (bypassing the Web Page Builder), you must use the raw source URL for GitHub files. You can obtain the raw URL by clicking the "Raw" button when viewing the file on GitHub, or by changing the URL format from:
+- `https://github.com/username/repo/blob/main/README.md` 
+to:
+- `https://raw.githubusercontent.com/username/repo/main/README.md`
+
+However, when using the Web Page Builder, you can paste either the regular GitHub URL or the raw URL - both formats are supported.
 
 ### Example Docsify-This URL Created by Web Page Builder
 
@@ -130,10 +135,17 @@ Docsify-This rendered Web pages are also perfect for embedding, with the ability
 
 ### Basic Customization
 
-The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic). For example, **font-family**, **font-size**, **link-color** and **line-height**   
+The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic).
+
+For example, you can change font family with the Web Page Builder or by using the **font-family** URL parameter:
 
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
+```
+
+You can also add a collapsible sidebar with the Web Page Builder or by using the **sidebar** URL parameter:
+```
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true
 ```
 
 Please note that when you use the Docsify-This Web Page Builder the Docsify-This URL generated includes these same URL parameters. For example, selecting a custom font family like "Open Sans" will add the parameter `font-family=Open%20Sans,sans-serif` to your generated URL. Similarly, options like adding a sidebar for navigation or adding an "Edit this Page" link are all translated into URL parameters that can be bookmarked and shared.
