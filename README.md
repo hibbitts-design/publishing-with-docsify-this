@@ -107,9 +107,6 @@ Now that you have Markdown files hosted online, you're ready to transform them i
 
 _As an open source project, you even have the option to host your own Docsify-This instance with your own custom domain, giving you full control over your publishing platform with minimal configuration required._
 
-> [!NOTE]
-> Docsify-This uses client-side rendering, which means your published content will not be indexed by search engines like Google, Bing, or DuckDuckGo. This makes it ideal for embedding, presentations, and course materials, but not suitable for content that needs to appear in search results.
-
 ### Getting Started
 
 <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/refs/heads/master/docsify-this-v1-10-6-web-page-builder.png" width="910" height="682" class="responsive" alt="Docsify-This Web Page Builder"><br>
@@ -160,6 +157,9 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 <em>Figure 2. Docsify-This Rendered Markdown File</em>
 
 Docsify-This rendered Web pages are also perfect for embedding, with the ability to visually style Docsify-This pages to the destination platform.
+
+> [!NOTE]
+> Docsify-This uses client-side rendering, which means your published content will not be indexed by search engines like Google, Bing, or DuckDuckGo. This makes it ideal for embedding, presentations, and course materials, but not suitable for content that needs to appear in search results.
 
 ### Basic Customization
 
