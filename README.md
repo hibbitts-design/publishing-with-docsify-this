@@ -138,26 +138,28 @@ Docsify-This rendered Web pages are also perfect for embedding, with the ability
 
 ### Basic Customization
 
-The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic). These URL parameters are added to the Docsify-This generated web page URL (the one starting with `https://docsify-this.net/?`), not to your original Markdown file URL.
+The visual appearance of any Markdown file displayed by Docsify-This can be easily altered with the **Web Page Builder**, which provides a point-and-click interface for customization. For users comfortable with editing URLs, you can also manually add [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic) to the Docsify-This generated web page URL (the one starting with `https://docsify-this.net/?`).
 
-For example, you can add a collapsible sidebar with the Web Page Builder **Sidebar** option in the **Page layout** section or by using the `sidebar` URL parameter:
+For example, you can add a collapsible sidebar with the Web Page Builder **Sidebar** option in the **Page layout** section. Alternatively, the `sidebar` URL parameter can be modified:
+
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true
 ```
 
 Once you tap on the **Show More Page Appearance Options »** link, other page appearance options are available in the Web Page Builder.
 
-You can change font family with the Web Page Builder **Page font family** option in the **Page Style and Behavior** section or by using the `font-family` URL parameter:
+You can change font family with the Web Page Builder **Page font family** option in the **Page Style and Behavior** section. Alternatively, the `font-family` URL parameter can be modified:
+
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
 ```
 
-You can add a table of contents with the Web Page Builder **Table of Contents** option in the **Page layout** section or by using the `toc` URL parameter (especially useful when embedding into other platforms):
+You can add a table of contents with the Web Page Builder **Table of Contents** option in the **Page layout** section.  Alternatively, the `toc` URL parameter (especially useful when embedding into other platforms) can be modified:
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true
 ```
 
-To control how many heading levels appear in the sidebar with the Web Page Builder **Maximum Header depth (1-6) for Docsify Sidebar** option in the **Navigation Display Options** section or by using the `maxLevel` parameter (default is 2):
+You can control how many heading levels appear in the sidebar with the Web Page Builder **Maximum Header depth (1-6) for Docsify Sidebar** option in the **Navigation Display Options** section. Alternatively, the `maxLevel` parameter (default is 2) can be modified:
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true&maxLevel=3
 ```
