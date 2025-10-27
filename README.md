@@ -146,9 +146,14 @@ For example, you can change font family with the Web Page Builder or by using th
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
 ```
 
-You can also add a collapsible sidebar with the Web Page Builder or by using the **sidebar** URL parameter:
+You can add a collapsible sidebar with the Web Page Builder or by using the **sidebar** URL parameter:
 ```
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true
+```
+
+You can add a table of contents with the Web Page Builder or by using the **toc** URL parameter (especially useful when embedding into other platforms):
+```
+https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&toc=true
 ```
 
 To control how many heading levels appear in the sidebar with the Web Page Builder or by using the **maxLevel** parameter (default is 2):
