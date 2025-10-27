@@ -148,6 +148,9 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 Once you tap on the **Show More Page Appearance Options »** link, other page appearance options are available in the Web Page Builder.
 
+> [!TIP]
+> Use the Web Page Builder first - it automatically generates properly formatted URLs and prevents syntax errors.
+
 You can change font family with the Web Page Builder **Page font family** option in the **Page Style and Behavior** section. Alternatively, the `font-family` URL parameter can be modified:
 
 ```
