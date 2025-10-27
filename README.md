@@ -136,7 +136,7 @@ The visual appearance of any Markdown file displayed by Docsify-This can be alte
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&font-family=Open%20Sans,sans-serif
 ```
 
-Please note that when you use the Docsify-This Web Page Builder the Docsify-This URL generated includes these same URL parameters. For example, selecting a custom font family like "Lato" and adjusting the font size will add parameters such as `font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1` to your generated URL. Similarly, options like adding a sidebar for navigation or adding an "Edit this Page" link are all translated into URL parameters that can be bookmarked and shared.
+Please note that when you use the Docsify-This Web Page Builder the Docsify-This URL generated includes these same URL parameters. For example, selecting a custom font family like "Open Sans" will add the parameter `font-family=Open%20Sans,sans-serif` to your generated URL. Similarly, options like adding a sidebar for navigation or adding an "Edit this Page" link are all translated into URL parameters that can be bookmarked and shared.
 
 For a complete list of available URL parameters and advanced customization options, see the [Docsify-This URL parameter documentation](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic).
 
