@@ -135,7 +135,7 @@ Docsify-This rendered Web pages are also perfect for embedding, with the ability
 
 ### Basic Customization
 
-The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic).
+The visual appearance of any Markdown file displayed by Docsify-This can be altered with the Web Page Builder or using the provided set of [URL Parameters](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic). These URL parameters are added to the Docsify-This generated web page URL (the one starting with `https://docsify-this.net/?`), not to your original Markdown file URL.
 
 For example, you can change font family with the Web Page Builder or by using the **font-family** URL parameter:
 
@@ -159,7 +159,7 @@ For a complete list of available URL parameters and advanced customization optio
 
 ### Editing a Docsify-This URL
 
-You can also render other Markdown files in the same repository by manualy editing the Docsify-This URL parameter **homepage**, for example:
+You can also render other Markdown files in the same repository by manually editing the Docsify-This URL parameter **homepage**, for example:
 
 ```html
 https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=anotherfile.md
