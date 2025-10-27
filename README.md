@@ -109,13 +109,13 @@ _As an open source project, you even have the option to host your own Docsify-Th
 
 ### Getting Started
 
-To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the 'Publish as a Web Page' button. The Markdown file will then be rendered as a web page with it's own URL that can then be copied and shared.
+To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the 'Publish as a Web Page' button. You can use either a regular GitHub or Codeberg file URL (e.g. https://github.com/username/repo/blob/main/README.md) or a raw URL (e.g. https://raw.githubusercontent.com/username/repo/main/README.md) - both are fully supported. The Markdown file will then be rendered as a web page with its own URL that can be copied and shared.
 
 <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/refs/heads/master/docsify-this-v1-10-6-web-page-builder.png" width="910" height="682" class="responsive" alt="Docsify-This Web Page Builder"><br>
+
 <em>Figure 1. Docsify-This Web Page Builder</em>
 
-> [!NOTE]
-> When using the Docsify-This Web Page Builder, a regular GitHub or Codeberg file URL (e.g. https://github.com/username/repo/blob/main/README.md) is recommended for convenience, though raw URLs (e.g. https://raw.githubusercontent.com/username/repo/main/README.md) are also fully supported. If you are manually constructing a Docsify-This URL (bypassing the Web Page Builder) to render a public GitHub file, you must use its raw source URL, obtainable by tapping the Raw button when viewing a file.
+**Note:** If you're manually constructing a Docsify-This URL (bypassing the Web Page Builder), you must use the raw source URL for GitHub files, which you can obtain by clicking the Raw button when viewing the file.
 
 ### Example Docsify-This URL Created by Web Page Builder
 
