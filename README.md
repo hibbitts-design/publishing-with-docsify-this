@@ -112,18 +112,43 @@ _As an open source project, you even have the option to host your own Docsify-Th
 
 ### Getting Started
 
-To use the Docsify-This **[Web Page Builder](https://docsify-this.net/)** enter the URL for an online Markdown file and tap the 'Publish as a Web Page' button. You can use either a regular GitHub or Codeberg file URL (e.g. https://github.com/username/repo/blob/main/README.md) or a raw URL (e.g. https://raw.githubusercontent.com/username/repo/main/README.md) - both are fully supported. The Markdown file will then be rendered as a web page with its own URL that can be copied and shared.
-
 <img src="https://raw.githubusercontent.com/paulhibbitts/github-repo-images/refs/heads/master/docsify-this-v1-10-6-web-page-builder.png" width="910" height="682" class="responsive" alt="Docsify-This Web Page Builder"><br>
 
 <em>Figure 1. Docsify-This Web Page Builder</em>
 
-**Important:** If you're manually constructing a Docsify-This URL (bypassing the Web Page Builder), you must use the raw source URL for GitHub files. You can obtain the raw URL by clicking the "Raw" button when viewing the file on GitHub, or by changing the URL format from:
-- `https://github.com/username/repo/blob/main/README.md` 
-to:
-- `https://raw.githubusercontent.com/username/repo/main/README.md`
+#### ⚡ Try it Out Right Away
 
-However, when using the Web Page Builder, you can paste either the regular GitHub URL or the raw URL - both formats are supported.
+Don't have a Markdown file ready? Copy this example URL:
+```
+https://github.com/hibbitts-design/markdown/blob/main/ReadMe.md
+```
+
+Then follow the steps below to publish it!
+
+#### 📝 Publishing Your Markdown File
+
+**Step 1: Get Your Markdown File URL**
+- Visit your Markdown file on GitHub, Codeberg, or your website
+- Copy the URL from your browser's address bar
+
+**Step 2: Open the Web Page Builder**
+- Go to **[Docsify-This.net](https://docsify-this.net/)**
+
+**Step 3: Paste Your URL**
+- Paste your Markdown file URL into the **Markdown File URL** field
+- Both regular GitHub URLs (`https://github.com/username/repo/blob/main/README.md`) and raw URLs (`https://raw.githubusercontent.com/username/repo/main/README.md`) work!
+
+**Step 4: Choose Layout**
+- Select your preferred page layout:
+  - **Content Only** - Simple, clean display
+  - **Table of Contents** - Adds navigation sidebar
+  - **Docsify Sidebar** - Collapsible navigation menu
+
+**Step 5: Publish**
+- Tap the **"Publish as a Web Page"** button
+- Your Markdown file is now a styled web page with its own shareable URL!
+
+[See an example page published with Docsify-This →](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/markdown/main&homepage=ReadMe.md&sidebar=true&searchbox=true&dark-mode=auto)
 
 ### Example Docsify-This URL Created by Web Page Builder
 
@@ -170,6 +195,13 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 Please note that when you use the Docsify-This Web Page Builder the Docsify-This URL generated includes these same URL parameters. For example, selecting a custom font family like "Open Sans" will add the parameter `font-family=Open%20Sans,sans-serif` to your generated URL. Similarly, options like adding a sidebar for navigation or adding an "Edit this Page" link are all translated into URL parameters that can be bookmarked and shared.
 
 For a complete list of available URL parameters and advanced customization options, see the [Docsify-This URL parameter documentation](https://docsify-this.net/#/?id=page-appearance-url-parameters-basic).
+
+**Important:** If you're manually constructing a Docsify-This URL (bypassing the Web Page Builder), you must use the raw source URL for GitHub files. You can obtain the raw URL by clicking the "Raw" button when viewing the file on GitHub, or by changing the URL format from:
+- `https://github.com/username/repo/blob/main/README.md` 
+to:
+- `https://raw.githubusercontent.com/username/repo/main/README.md`
+
+However, when using the Web Page Builder, you can paste either the regular GitHub URL or the raw URL - both formats are supported.
 
 ### Editing a Docsify-This URL
 
