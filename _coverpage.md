@@ -6,5 +6,5 @@
 
 Brought to you by Paul Hibbitts of [HibbittsDesign.org](https://hibbittsdesign.org/).
 
-[Read the Guide](#markdown-publishing-with-docsify828882118288this)
+[Read the Guide](#markdown-publishing-with-docsify-this)
 [Try out Docsify-This](https://docsify-this.net)
